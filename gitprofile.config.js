@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'nasware', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -18,7 +18,7 @@ const config = {
     behance: '',
     medium: '',
     dev: 'arifszn',
-    website: 'https://arifszn.github.io',
+    website: 'https://nasware.github.io',
     phone: '',
     email: 'arifulalamszn@gmail.com',
   },
